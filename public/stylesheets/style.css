@@ -4,7 +4,7 @@
 }
 
 html, body {
-  font: 14px LevelOne, "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 24px LevelOne, "Lucida Grande", Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -39,8 +39,8 @@ a {
 .logo {
   width: 300px;
   display: block;
-  margin: 0 auto;
-  margin-top: 5px;
+  margin: 20px auto;
+  margin-top: 20px;
 }
 
 h1 {
